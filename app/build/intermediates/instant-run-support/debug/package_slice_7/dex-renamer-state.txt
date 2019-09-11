@@ -1,0 +1,4 @@
+#Thu Jul 12 09:22:49 ULAT 2018
+base.0=/mnt/hgfs/liyn18/app/broadband/app/build/intermediates/transforms/dexMerger/debug/469
+path.0=classes.dex
+renamed.0=classes.dex

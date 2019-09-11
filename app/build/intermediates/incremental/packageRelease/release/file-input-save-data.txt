@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 03 18:26:24 CST 2018
+0.baseType=DIRECTORY
+0.base=/home/liyn18/app/broadband/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

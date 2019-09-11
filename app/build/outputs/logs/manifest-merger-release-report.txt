@@ -1,0 +1,403 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.github.czy1121:loadinglayout:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/loadinglayout-1.0.1.aar/85b545602a9405ecb6d8f99faa8a5d08/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/MagicIndicator-1.5.0.aar/01b81a05fef05494996da7c2b22ad324/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mylhyl:circleDialog:2.3.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:2:1-28:12
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:17:1-31:12
+MERGED from [me.majiajie:pager-bottom-tab-strip:2.2.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1930186e4733413f1fc33463061b2c2e/AndroidManifest.xml:2:1-12:12
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/37c3cf2426dc1b88afd63f20de6159cc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:17:1-31:12
+MERGED from [com.orhanobut:logger:2.1.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/logger-2.1.1.aar/f0d4275971aa4abc6f104bd1a729cc0f/AndroidManifest.xml:2:1-8:12
+MERGED from [org.byteam.superadapter:superadapter:3.6.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/51f7a6bd4075b39af866fe0fb416aa74/AndroidManifest.xml:2:1-12:12
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/AndroidManifest.xml:17:1-26:12
+MERGED from [com.zhy:okhttputils:2.6.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okhttputils-2.6.2.aar/972b5f0d95d169ec97a14f342955679f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/AndroidManifest.xml:2:1-17:12
+MERGED from [com.wang.avi:library:2.1.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/decceffd200a286b8f66e39ad20e1c42/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.4.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/df94c9a8ab4dfe95a1985cb459a12e23/AndroidManifest.xml:2:1-7:12
+MERGED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:2:1-17:12
+MERGED from [ch.ielse:switchbutton:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/AndroidManifest.xml:2:1-16:12
+MERGED from [com.youth.banner:banner:1.4.10] /home/liyn18/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/f9842b02a3bc75c311135ba81f9b54f4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:2:1-29:12
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7a8f6c57c5dbf421ef081e55ea9a4379/AndroidManifest.xml:15:1-21:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:3:11-40
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:11:5-67
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:11:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:12:5-83
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:29:5-84
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:12:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:17:5-64
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:12:5-65
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:18:5-79
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:11:5-80
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:11:5-80
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:13:5-80
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:13:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:27:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:19:5-80
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:11:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:11:5-81
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:12:5-81
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:12:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:21:22-72
+application
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:22:5-49:19
+MERGED from [com.mylhyl:circleDialog:2.3.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/AndroidManifest.xml:12:5-20
+MERGED from [com.mylhyl:circleDialog:2.3.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:29:5-20
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:14:5-26:19
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:14:5-26:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:13:5-34:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:13:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:29:5-20
+MERGED from [me.majiajie:pager-bottom-tab-strip:2.2.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/AndroidManifest.xml:11:5-53
+MERGED from [me.majiajie:pager-bottom-tab-strip:2.2.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/AndroidManifest.xml:11:5-53
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:29:5-20
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/AndroidManifest.xml:12:5-20
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/AndroidManifest.xml:12:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/AndroidManifest.xml:11:5-15:19
+MERGED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:9:5-15:19
+MERGED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:9:5-15:19
+MERGED from [ch.ielse:switchbutton:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/AndroidManifest.xml:11:5-14:19
+MERGED from [ch.ielse:switchbutton:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/AndroidManifest.xml:11:5-14:19
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:15:5-27:19
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:15:5-27:19
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:25:9-39
+	android:allowBackup
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:23:9-47
+activity#personal.buildbroad.MainActivity
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:38:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:41:27-74
+activity#personal.buildbroad.SocketActivity
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:44:9-70
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:44:19-68
+activity#personal.buildbroad.tests.SpeedActivity
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:45:19-54
+meta-data#UPDATE_APP_KEY
+ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:46:9-48:63
+	android:value
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:48:13-61
+	android:name
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml:47:13-42
+uses-sdk
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+MERGED from [com.github.czy1121:loadinglayout:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/loadinglayout-1.0.1.aar/85b545602a9405ecb6d8f99faa8a5d08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.czy1121:loadinglayout:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/loadinglayout-1.0.1.aar/85b545602a9405ecb6d8f99faa8a5d08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/MagicIndicator-1.5.0.aar/01b81a05fef05494996da7c2b22ad324/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hackware1993:MagicIndicator:1.5.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/MagicIndicator-1.5.0.aar/01b81a05fef05494996da7c2b22ad324/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mylhyl:circleDialog:2.3.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mylhyl:circleDialog:2.3.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:7:5-9:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:21:5-23:78
+MERGED from [me.majiajie:pager-bottom-tab-strip:2.2.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/AndroidManifest.xml:7:5-9:41
+MERGED from [me.majiajie:pager-bottom-tab-strip:2.2.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1930186e4733413f1fc33463061b2c2e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1930186e4733413f1fc33463061b2c2e/AndroidManifest.xml:8:5-10:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/37c3cf2426dc1b88afd63f20de6159cc/AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/37c3cf2426dc1b88afd63f20de6159cc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:21:5-23:60
+MERGED from [com.orhanobut:logger:2.1.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/logger-2.1.1.aar/f0d4275971aa4abc6f104bd1a729cc0f/AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.1.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/logger-2.1.1.aar/f0d4275971aa4abc6f104bd1a729cc0f/AndroidManifest.xml:6:5-43
+MERGED from [org.byteam.superadapter:superadapter:3.6.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/51f7a6bd4075b39af866fe0fb416aa74/AndroidManifest.xml:8:5-10:41
+MERGED from [org.byteam.superadapter:superadapter:3.6.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/51f7a6bd4075b39af866fe0fb416aa74/AndroidManifest.xml:8:5-10:41
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:okhttputils:2.6.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okhttputils-2.6.2.aar/972b5f0d95d169ec97a14f342955679f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okhttputils-2.6.2.aar/972b5f0d95d169ec97a14f342955679f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.5.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/decceffd200a286b8f66e39ad20e1c42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/decceffd200a286b8f66e39ad20e1c42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.4.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/df94c9a8ab4dfe95a1985cb459a12e23/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /home/liyn18/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/df94c9a8ab4dfe95a1985cb459a12e23/AndroidManifest.xml:5:5-43
+MERGED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:7:5-44
+MERGED from [ch.ielse:switchbutton:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/AndroidManifest.xml:7:5-9:41
+MERGED from [ch.ielse:switchbutton:1.0.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] /home/liyn18/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/f9842b02a3bc75c311135ba81f9b54f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] /home/liyn18/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/f9842b02a3bc75c311135ba81f9b54f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7a8f6c57c5dbf421ef081e55ea9a4379/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7a8f6c57c5dbf421ef081e55ea9a4379/AndroidManifest.xml:19:5-43
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		ADDED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liyn18/app/broadband/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/AndroidManifest.xml:26:9-47
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:15:19-79
+provider#android.support.v4.content.FileProvider
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:17:9-25:20
+	android:grantUriPermissions
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:19:13-64
+	android:exported
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:18:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/AndroidManifest.xml:23:17-67
+activity#com.darsh.multipleimageselect.activities.AlbumSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:17:13-88
+intent-filter#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:21:13-23:29
+category#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:22:27-73
+activity#com.darsh.multipleimageselect.activities.ImageSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/AndroidManifest.xml:26:13-88
+activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
+ADDED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:10:9-14:75
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:14:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:13:13-55
+	android:name
+		ADDED from [com.blankj:utilcode:1.12.6] /home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/AndroidManifest.xml:11:13-87
+service#com.vector.update_app.service.DownloadService
+ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:16:9-81
+	android:name
+		ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:16:18-78
+provider#com.vector.update_app.UpdateFileProvider
+ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:20:13-64
+	android:exported
+		ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.qianwen:update-app:3.3.8] /home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/AndroidManifest.xml:19:13-68

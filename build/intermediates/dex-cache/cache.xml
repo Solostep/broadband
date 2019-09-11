@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a505c2be4b540f41cb8bfe123101e627/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1930186e4733413f1fc33463061b2c2e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2013b068d3aecc7d4a96f39d343686bcd4a84a63">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/circleDialog-2.3.0.aar/39fcc67a4bee820606acae6f7a2693e9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e872d7d8e6239840ea2512f68fa79bfb3c85d67f">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89431f8e8b6d5d187364cef8fcdc690ba0ed28d2">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/logger-2.1.1.aar/f0d4275971aa4abc6f104bd1a729cc0f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/switchbutton-1.0.1.aar/0254f49e0b6082540670c9e0ef4f21b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2eb0395a97627df2cb89d55e432f39f512223f77">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.5.1.aar/58810b6a9d2473b3fd93c7622ce37128/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97ec2ed1b83ebaa7ae523fb5a426328e9acc48a9">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/22a099341c05df2745a572122c4d14d3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/37c3cf2426dc1b88afd63f20de6159cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="203f86b303ba8cf1473a5495f94121466af023b0">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/044a0026413a4483a7e3d77bb20f88c6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bc55cb7894224ea65866b44e4389b361/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/okhttputils-2.6.2.aar/972b5f0d95d169ec97a14f342955679f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/7a8f6c57c5dbf421ef081e55ea9a4379/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/utilcode-1.12.6.aar/1960e3fad644c38c82e0c4aff1a4f440/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee1e915b90eb6c80ee38c83487e94f9403d1b6d9">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/MagicIndicator-1.5.0.aar/01b81a05fef05494996da7c2b22ad324/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc9c68aa8e850407de6231285bfd776aad227517">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/40a62895c9be812b1df0f2f09f34f600/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91a335dab6fcecb5f15f9f19e960e02bb3e699aa">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/c79d681ae6374e78263a2c47b0ea8100/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/72d47fa6dffc72ea6ceb1e9aa1e5674f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/51f7a6bd4075b39af866fe0fb416aa74/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a920be32884eac08c974d779a990a6b0797e71b">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/5844b10f056e982cd6a3ab014d7a67fb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/dec6e0976464373fc0d9a7080d85893d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9ee7bc61bec4070d7412c7ea45968eef3b7d9b">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/df94c9a8ab4dfe95a1985cb459a12e23/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/pager-bottom-tab-strip-2.2.2.aar/b3178bd9c451e351ca333c704a87c02a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8ffe2b34e2d7847a222dd0c9113835e8d6bf22f">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b37c217959a51df388cf157241623cd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/ba1543a70149b4c87cdc2755099c8e46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d351ec49f7b5abc4d789aca3c54a175a01433a1e">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.5.1.aar/e8405ac8dd4b4f5d1f1bccd00802662a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd1718ebbd364588c9302f9ce2069c8b6419403">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/f9842b02a3bc75c311135ba81f9b54f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a06299b94845356c731524654ba386d0877e6b53">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.44/1dbb13ed90bab048d51559dbb17374d1bbf096fc/fastjson-1.2.44.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dbb13ed90bab048d51559dbb17374d1bbf096fc">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/decceffd200a286b8f66e39ad20e1c42/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/loadinglayout-1.0.1.aar/85b545602a9405ecb6d8f99faa8a5d08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="46851829913ed23a9a3a277dde60535595264829">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/okgo-3.0.4.aar/2707343f94e87b8f57bffd173f31b20b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73e29ea5ff160d5cc7993fe3bbcc1cb7666c7a4c">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/7f8867824f2f82baaaadde79092ba102/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5943eb66a3c2c79c7761fd286aadecef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/liyn18/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/liyn18/app/broadband/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+
+</items>

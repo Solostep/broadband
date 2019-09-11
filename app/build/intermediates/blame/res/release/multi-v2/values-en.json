@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/liyn18/app/broadband/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/home/liyn18/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/bf318f511939462e3b9eb536c8e17b05/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,209,292,365,426,531,583,693,823,935,977",
+                        "endColumns": "90,62,82,72,60,104,51,109,129,111,41,66",
+                        "endOffsets": "141,204,287,360,421,526,578,688,818,930,972,1039"
+                    }
+                }
+            ]
+        }
+    ]
+}

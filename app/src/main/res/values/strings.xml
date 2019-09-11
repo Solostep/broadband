@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">安装工具</string>
+    <string name="home">首页</string>
+    <string name="mine">我的</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="network_check_hint">诊断大约需要1分钟时间，点击"开始诊断"即刻开始</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--strings related to home-->
+    <string name="area_name">区域名称</string>
+    <string name="item_name">项目名称</string>
+    <string name="config_info">配置信息</string>
+    <string name="apgroup_info">AP&#8194;&#8194;&#8194;&#8197;组</string>
+    <string name="home_name">姓&#12288;&#12288;名</string>
+    <string name="home_address">详细地址</string>
+    <string name="home_village">小区地址</string>
+    <string name="home_phone">手机号码</string>
+    <string name="config_type">请选择配置生效方式:</string>
+    <string name="config_now">立即</string>
+    <string name="config_next">下次重启</string>
+
+    <string name="new_device">新&#8194;设&#8194;备</string>
+    <string name="old_device">旧&#8194;设&#8194;备</string>
+
+    <string name="splash_jump"><u>跳过</u></string>
+    <string name="test_number"><u>17600975502</u></string>
+
+
+    <string name="order_name_text">名称:</string>
+    <string name="order_status_text">状态:</string>
+    <string name="order_lineNumber_text">lineNumber:</string>
+    <string name="order_building_text">地址:</string>
+    <string name="order_create_text">创建时间:</string>
+    <string name="order_config_text">详情:</string>
+    <string name="order_id_text" >订单编号:</string>
+    <string name="order_username_text" >用户名:</string>
+</resources>

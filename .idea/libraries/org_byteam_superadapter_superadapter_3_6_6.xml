@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.byteam.superadapter:superadapter-3.6.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/9adb08c6d5bcc362163858816e322df3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superadapter-3.6.6.aar/9adb08c6d5bcc362163858816e322df3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.byteam.superadapter/superadapter/3.6.6/29d94c2b6c6995a4e9b3c86e8fb971f19b827e6/superadapter-3.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

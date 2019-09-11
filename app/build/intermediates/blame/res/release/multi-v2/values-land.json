@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/liyn18/app/broadband/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/liyn18/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1930186e4733413f1fc33463061b2c2e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "47",
+                        "endOffsets": "371"
+                    }
+                },
+                {
+                    "source": "/home/liyn18/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5868fbbebd9cd68db0e9a4a234fef0c6/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "376",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "553"
+                    }
+                },
+                {
+                    "source": "/home/liyn18/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5d5c6619a75917b9065203d5da0351fa/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

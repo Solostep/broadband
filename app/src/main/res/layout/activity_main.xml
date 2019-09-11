@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <include layout="@layout/titleview_layout"/>
+
+    <LinearLayout
+        android:id="@+id/lay_ap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lay_bg"
+        android:orientation="horizontal"
+        android:layout_margin="3dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:text="AP地址："
+            android:textSize="14sp"
+            android:paddingTop="5dp"
+            android:paddingLeft="30dp" />
+        <EditText
+            android:id="@+id/ap_edit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:singleLine="true"
+            android:textSize="14sp"
+            android:padding="2dp"
+            android:background="@drawable/edit_text_bg"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        >
+            <Button
+                android:id="@+id/add_config"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="添加"
+                android:textSize="20sp"
+                android:paddingLeft="25dp"
+                android:textColor="@color/white"
+                android:background="@drawable/ic_main_1"
+                android:onClick="onClickMain" />
+            <Button
+                android:id="@+id/update_config"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="更新"
+                android:textSize="20sp"
+                android:paddingRight="25dp"
+                android:textColor="@color/white"
+                android:layout_toRightOf="@+id/add_config"
+                android:background="@drawable/ic_main_2"
+                android:onClick="onClickMain" />
+            <Button
+                android:id="@+id/update_Order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="订单"
+                android:textSize="20sp"
+                android:paddingLeft="25dp"
+                android:textColor="@color/white"
+                android:layout_below="@+id/add_config"
+                android:background="@drawable/ic_main_3"
+                android:onClick="onClickMain" />
+            <Button
+                android:id="@+id/order_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="待定"
+                android:textSize="20sp"
+                android:paddingRight="25dp"
+                android:textColor="@color/white"
+                android:layout_toRightOf="@+id/update_Order"
+                android:layout_below="@+id/add_config"
+                android:background="@drawable/ic_main_4"
+                android:onClick="onClickMain" />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/exit_login_btn"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/speed_img"
+        android:text="退出登录"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/login_button_shape"
+        android:onClick="exit" />
+</RelativeLayout>
